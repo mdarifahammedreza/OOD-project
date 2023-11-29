@@ -94,6 +94,3 @@ This will create an optimized build in the `build` folder that you can deploy to
 ## Conclusion:
 
 Your React project is now set up and ready for development. Customize it according to your requirements, and refer to the [React documentation](https://reactjs.org/docs/getting-started.html) for more advanced topics and features. Happy coding!
-```
-
-Copy and paste the above markdown content into your README.md file.
